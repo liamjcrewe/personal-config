@@ -200,12 +200,19 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
+	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
+	<dict>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame NSFontPanel</key>
+	<string>505 110 709 358 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>0 217 796 486 0 0 1280 800 </string>
+	<string>341 224 918 423 0 0 1280 800 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>80 216 592 584 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>131 16 650 502 0 0 1280 800 </string>
+	<string>0 4 650 502 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>603 79 650 525 0 0 1280 800 </string>
 	<key>NeverWarnAboutPossibleOverrides</key>
@@ -216,6 +223,8 @@
 	<array>
 		<dict>
 			<key>ASCII Anti Aliased</key>
+			<true/>
+			<key>ASCII Ligatures</key>
 			<true/>
 			<key>Ambiguous Double Width</key>
 			<false/>
@@ -770,7 +779,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Monaco 14</string>
+			<string>FiraCode-Regular 15</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
