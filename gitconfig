@@ -1,0 +1,23 @@
+[user]
+	email = liam.j.crewe@gmail.com
+	name = Liam Crewe
+[push]
+	default = current
+[color "branch"]
+	current = yellow reverse
+	local = yellow
+	remote = green
+[pager]
+	diff = diff-so-fancy | less --tabs=1,5 -RFX
+	show = diff-so-fancy | less --tabs=1,5 -RFX
+[color "diff"]
+	meta = yellow bold
+	frag = magenta
+[color "diff-highlight"]
+	oldNormal = red bold
+	oldHighlight = red bold 52
+	newNormal = green bold
+	newHighlight = green bold 22
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = vim
