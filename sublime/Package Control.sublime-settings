@@ -1,0 +1,26 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "A File Icon",
+        "All Autocomplete",
+        "Babel",
+        "BracketHighlighter",
+        "Color Highlight",
+        "DocBlockr",
+        "Emmet",
+        "GitGutter",
+        "Goto Related",
+        "Material Theme",
+        "Package Control",
+        "Pretty JSON",
+        "rainbow_csv",
+        "SideBarEnhancements",
+        "SublimeLinter",
+        "SublimeLinter-contrib-standard",
+        "SublimeLinter-phpcs"
+    ]
+}
