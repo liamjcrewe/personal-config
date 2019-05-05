@@ -1,13 +1,13 @@
 // SublimeLinter Settings - User
 {
-  "linters": {
-    "phpcs": {
-      "args": "--standard=PSR2"
+    "linters": {
+        "phpcs": {
+            "args": "--standard=PSR2"
+        }
+    },
+    "paths": {
+        "osx": [
+            "~/.composer/vendor/bin"
+        ],
     }
-  },
-  "paths": {
-    "osx": [
-      "~/.composer/vendor/bin"
-    ],
-  }
 }
