@@ -140,7 +140,7 @@ curl https://raw.githubusercontent.com/amix/vimrc/master/vimrcs/basic.vim > ~/.v
 ### Oh-my-zsh
 
 1. Edit `~/.zshrc` and set theme to `af-magic`.
-2. Edit `~/.zshrc` and set plugins to `(git zsh-syntax-highlighting alias-tips).
+2. Edit `~/.zshrc` and set plugins to `(git zsh-syntax-highlighting alias-tips)`.
 3. Run the following to install plugins:
 
 ```
