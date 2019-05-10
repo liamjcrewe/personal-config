@@ -196,7 +196,7 @@ curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/sublime
 
 ```
 curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/sublime/Base%20File.sublime-settings > ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Base\ File.sublime-settings
-curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/sublime/JavaScript%20(Babel).sublime-settings > ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/JavaScript\ (Babel).sublime-settings
+curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/sublime/JavaScript%20(Babel).sublime-settings > ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/JavaScript\ \(Babel\).sublime-settings
 curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/sublime/PHP.sublime-settings > ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/PHP.sublime-settings
 curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/sublime/Preferences.sublime-settings > ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Preferences.sublime-settings
 curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/sublime/SublimeLinter.sublime-settings > ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/SublimeLinter.sublime-settings
