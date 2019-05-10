@@ -172,8 +172,8 @@ mysql.server restart
 
 1. Download query editor theme by running `curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/darkside-contrast-modified.spTheme > ~/Documents/darkside-contrast-modified.spTheme`.
 2. Open Sequel Pro, add localhost as a favourite.
-3. Open Preferences, go to "General", set "MySQL Content Font" to Fira Code 15 pt.
-4. Go to "Query Editor", set "Font" to Fira Code 15 pt, tick "Auto uppercase words", untick "Complete with backticks".
+3. Open Preferences, go to "General", set "MySQL Content Font" to Fira Code Retina 15 pt.
+4. Go to "Query Editor", set "Font" to Fira Code Retina 15 pt, tick "Auto uppercase words", untick "Complete with backticks".
 5. Import the theme downloaded above (cog icon > "Import Color Theme").
 
 ### Sublime
