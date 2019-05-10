@@ -1,5 +1,6 @@
 {
     "bold_folder_labels": true,
+    "close_windows_when_empty": false,
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
     "default_line_ending": "unix",
     "drag_text": false,
