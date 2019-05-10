@@ -175,6 +175,7 @@ mysql.server restart
 3. Open Preferences, go to "General", set "MySQL Content Font" to Fira Code Retina 15 pt.
 4. Go to "Query Editor", set "Font" to Fira Code Retina 15 pt, tick "Auto uppercase words", untick "Complete with backticks".
 5. Import the theme downloaded above (cog icon > "Import Color Theme").
+6. Save the theme (cog icon > "Save Current Theme As") as `darkside-constrast-modified`.
 
 ### Sublime
 
