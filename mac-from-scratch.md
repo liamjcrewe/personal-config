@@ -96,7 +96,7 @@ brew install composer
 composer global require "squizlabs/php_codesniffer=*"
 echo 'export PATH=$PATH:~/.composer/vendor/bin' >> ~/.zshrc
 brew cask install google-chrome
-brew cask install iterm2
+brew cask install hyper
 brew cask install sublime-text
 brew cask install visual-studio-code
 brew cask install homebrew/cask-versions/sequel-pro-nightly
@@ -132,10 +132,13 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 curl https://raw.githubusercontent.com/amix/vimrc/master/vimrcs/basic.vim > ~/.vimrc
 ```
 
-### iTerm
+### Hyper
 
-1. Install [shell integration](https://iterm2.com/documentation-shell-integration.html).
-2. Open settings, set "Load preferences from a custom folder or URL" to `https://raw.githubusercontent.com/liamjcrewe/personal-config/master/iterm-settings.plist`.
+1. Run the following to install Hyper settings:
+```
+curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/hyper-settings.js > ~/hyper-settings.js && mv ~/hyper-settings.js ~/.hyper.js
+```
+2. Restart Hyper to install plugins and verify everything is good.
 
 ### Oh-my-zsh
 
