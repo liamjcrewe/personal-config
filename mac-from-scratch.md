@@ -75,12 +75,7 @@ Untick all "Search Results" except for:
 
 ## Homebrew and Base Installations
 
-1. Open terminal, install Homebrew by running the following (from [here](https://brew.sh)):
-
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-
+1. Open terminal, install [Homebrew](https://brew.sh)
 2. Run the following (_note: installing yarn automatically installs node_):
 
 ```
@@ -156,7 +151,7 @@ git clone https://github.com/djui/alias-tips.git ${ZSH_CUSTOM:-~/.oh-my-zsh/cust
 1. Run the following to configure Git:
 
 ```
-curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/gitconfig > ~/.ssh/.gitconfig`
+curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/gitconfig > ~/.ssh/.gitconfig
 curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/gitignore_global > ~/.ssh/.gitignore_global
 ```
 
