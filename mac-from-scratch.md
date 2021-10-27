@@ -151,8 +151,8 @@ git clone https://github.com/djui/alias-tips.git ${ZSH_CUSTOM:-~/.oh-my-zsh/cust
 1. Run the following to configure Git:
 
 ```
-curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/gitconfig > ~/.ssh/.gitconfig
-curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/gitignore_global > ~/.ssh/.gitignore_global
+curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/gitconfig > ~/.gitconfig
+curl https://raw.githubusercontent.com/liamjcrewe/personal-config/master/gitignore_global > ~/.gitignore_global
 ```
 
 ### MySQL
